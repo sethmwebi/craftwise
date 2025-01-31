@@ -36,7 +36,7 @@ export default function Hero() {
         <h1 className='p-8 md:p-32 text-white mt-10  md:mt-24 font-montserrat font-bold text-3xl md:text-7xl'><strong>CRAFTWISE <br></br>ACADEMY</strong></h1>
        
 
-        <p className='pl-8 md:pl-32 font-montserrat text-white text-3xl font-medium' >Experience Learning, <br></br> That Changes Everything.</p>
+        <p className='pl-8 md:pl-32 font-montserrat text-white text-xl md:text-3xl font-medium' >Experience Learning, <br></br> That Changes Everything.</p>
         <motion.div
           ref={ref}
           className="md:w-1/2 pl-8 md:pl-32 pt-8 p-4 text-white z-10 space-y-6"
